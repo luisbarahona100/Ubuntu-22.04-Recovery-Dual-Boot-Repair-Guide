@@ -78,6 +78,7 @@ A second properly created USB device was required to successfully boot into Live
 ```bash
 lsblk
 ```
+![image(3).png](image(3).png)
 
 Look for:
 
