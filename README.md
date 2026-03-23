@@ -14,7 +14,7 @@ The system failed to boot into Ubuntu with the error:
 
 The same error also appeared in recovery mode.
 
-![image.png](image.png)
+![image(6).png](image(6).png)
 ---
 
 ## Root Causes (Observed & Possible)
