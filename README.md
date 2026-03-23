@@ -90,7 +90,7 @@ Optional verification:
 ```bash
 sudo blkid
 ```
-
+![image(4).png](image(4).png)
 ---
 
 ## Step 4: Mount System
