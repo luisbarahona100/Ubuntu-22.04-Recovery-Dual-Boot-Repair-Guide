@@ -125,6 +125,8 @@ During chroot, internet may fail due to missing DNS resolution.
 
 * `apt update` fails
 * "Temporary failure resolving" errors
+  
+![image(6).png](image(6).png)
 
 ### Fix
 
